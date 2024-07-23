@@ -83,3 +83,8 @@ The final model achieved the following performance metric:
 * AUC-ROC: **0.93**
 
 The top 5 features that contributed most to churn are:
+1. Total charges over the lifetime of the account
+2. The month the account was opened
+3. Total monthly charges of the account
+4. The year the account was opened
+5. The type of account
